@@ -12,3 +12,5 @@ This is completely open-source and hope to get more updates soon !
 Know issues : ticket close / delete buttons dont work currently 
 
 The best free bot hosting is skybots.tech just to let you know !
+
+To put your bot token in go in the "bot_config" folder then edit the line in "token.json" to your bot token
