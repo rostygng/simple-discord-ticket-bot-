@@ -10,3 +10,5 @@ This is completely open-source and hope to get more updates soon !
 ⚡ In built banner system - just copy and paste your imgur image link
 
 Know issues : ticket close / delete buttons dont work currently 
+
+The best free bot hosting is skybots.tech just to let you know !
